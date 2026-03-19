@@ -4,7 +4,7 @@ A full-stack web application for tracking user streaks, login status, and person
 
 ## 🎯 Overview
 
-**Streak Tracker** is a comprehensive user account management and streak tracking application designed to help users maintain consistent habits and track their daily login activity. The application provides secure authentication, personalized dashboards, and real-time streak monitoring with an intuitive user interface.
+**Graphical User Authentication System** is a comprehensive user account management and streak tracking application designed to help users maintain consistent habits and track their daily login activity. The application provides secure authentication, personalized dashboards, and real-time streak monitoring with an intuitive user interface.
 
 ### Key Objectives
 - Provide secure user registration and authentication
